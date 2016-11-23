@@ -1,0 +1,10 @@
+name: InvisibleArmor
+main: kr.mocha.InvisibleArmor
+version: 1.0-SNAPSHOT
+author: mocha
+description: "Invisible Armor"
+api: [1.0.0]
+
+permissions :
+ armor.cmd :
+  default : true
